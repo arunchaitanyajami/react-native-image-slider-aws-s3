@@ -166,7 +166,7 @@ export const ImageSlider = ({
                                 </TouchableOpacity>
                                 <Image
                                     // @ts-ignore
-                                    source={localImg ? item.img : { uri: item.img }}
+                                    source={localImg ? item.img : item}
                                     style={[styles.previewImageStyle, previewImageStyle]}
                                 />
                             </View>

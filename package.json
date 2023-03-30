@@ -1,7 +1,7 @@
 {
-  "name": "react-native-image-slider-banner",
+  "name": "react-native-image-slider-aws-s3",
   "version": "1.0.0",
-  "description": "A simple and fully customizable React Native Component that implements Image and Banner Slider UI with animations.",
+  "description": "A simple and fully customizable React Native Component that implements Image and Banner Slider UI with animations and works with S3 bucket images",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/arunchaitanyajami/react-native-image-slider-aws-s3.git"
   },
   "keywords": [
-    "react-native-image-slider-banner",
+    "react-native-image-slider-aws-s3",
     "react-native-image-slider",
     "react-native-image-slider-box",
     "react-native-image-banner",

@@ -1,6 +1,6 @@
-# react-native-image-slider-banner
+# react-native-image-slider-aws-s3
 
-[![npm](https://img.shields.io/npm/v/react-native-image-slider-banner.svg)](https://www.npmjs.com/package/react-native-image-slider-banner)  ![npm](https://img.shields.io/npm/dt/react-native-image-slider-banner.svg)
+[![npm](https://img.shields.io/npm/v/react-native-image-slider-aws-s3.svg)](https://www.npmjs.com/package/react-native-image-slider-aws-s3)  ![npm](https://img.shields.io/npm/dt/react-native-image-slider-aws-s3.svg)
 
 ___
 <h2 align="center">Support 💰</h2>
@@ -30,9 +30,9 @@ ___
 
 1. First, install our library | use below npm script
 
-   > npm i react-native-image-slider-banner
+   > npm i react-native-image-slider-aws-s3
 
-   > yarn add react-native-image-slider-banner
+   > yarn add react-native-image-slider-aws-s3
 
 Well-done.
 
@@ -68,7 +68,7 @@ activeIndicatorStyle               | Style object              |       for chang
 ### 1- add below import in your code :
 
 ```js
-import { ImageSlider } from "react-native-image-slider-banner";
+import { ImageSlider } from "react-native-image-slider-aws-s3";
 ```
 
 ### 2- Show Simple Slider with Image Preview option enable Example
