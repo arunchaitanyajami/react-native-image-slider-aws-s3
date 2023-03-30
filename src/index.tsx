@@ -126,7 +126,7 @@ export const ImageSlider = ({
                             <Animated.Image
                                 key={`image-${ind}`}
                                 // @ts-ignore
-                                source={localImg ? val.img : { uri: val.img }}
+                                source={localImg ? val.img : val}
                                 style={[StyleSheet.absoluteFillObject, { opacity }]}
                                 blurRadius={blurRadius}
 
